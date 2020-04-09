@@ -9,4 +9,4 @@ Cecil Adarkwah
 BSSI/DD/184765
 
 
-- [Vist our page](https://github.com/Jonathanokoeokine/Joecel.git)
+- [Vist our page](https:Jonathanokoeokine/Joecel.git)
